@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "300957746555",
+    "project_id": "iitapp",
+    "storage_bucket": "iitapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:300957746555:android:8fbe84c6cd1e84539d69de",
+        "android_client_info": {
+          "package_name": "com.example.phone_auth_project"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "300957746555-3uo163i9o9s01mgrkh1092u0r62369gn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCSoNiofkj97qpFR_DCxmNkyyvvMbc5SDs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "300957746555-3uo163i9o9s01mgrkh1092u0r62369gn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
